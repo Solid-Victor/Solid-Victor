@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, everything Javascript
 - 🌱 I learn on daily basis
 - 💞️ I’m looking to collaborate with any coding community to display my expertise
-- 📫 you can reach on Gmail: victorcontents@gmail.com
+- 📫 you can reach on me Gmail: victorcontents@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

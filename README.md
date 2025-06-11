@@ -1,5 +1,5 @@
-- 👋 Hi, Emenike Victor
-- 👀 I’m interested in Javascript, everything Javascript
+- 👋 Hi, I'm Emenike Victor
+- 👀 I’m interested in Javascript and Python, but everything Javascript
 - 🌱 I learn on daily basis
 - 💞️ I’m looking to collaborate with any coding community to display my expertise
 - 📫 you can reach on me Gmail: victorcontents@gmail.com
